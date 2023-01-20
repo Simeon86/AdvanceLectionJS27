@@ -1,0 +1,31 @@
+
+
+section#video {
+    min-height: 450px;
+    background: #0a687e;
+    color: #fff;
+    padding: 120px 0;
+    box-sizing: border-box;
+}
+
+section#video .header {
+    text-align: center;
+}
+
+section#video .header a {
+    display: inline-block;
+}
+
+section#video .header a img {
+    width: 80px;
+}
+
+section#video .header h4 {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+section#video .wrapper > p {
+    text-align: center;
+}
